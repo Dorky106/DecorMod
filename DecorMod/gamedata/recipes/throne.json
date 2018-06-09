@@ -1,0 +1,10 @@
+[
+	{
+		"name" : "decormod.throne",
+		"requires" : [
+		{"amount": 5, "type":"planks"},
+		{"amount": 2, "type":"carpetred"}
+		],
+		"results" : [{"type":"throne"}]
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		"name" : "Decor Mod",
+		"version" : "0.0.0.1",
+		"dllpath" : "DecorMod.dll",
+		"enabled" : true,
+		"marksgamemodded": true,
+		"compatibleversions" : [
+			"0.6.2"
+		]
+	}
+]

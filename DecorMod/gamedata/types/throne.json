@@ -1,0 +1,32 @@
+{
+	"throne" : {
+		"colliders" : {
+			"boxes" : [{"max":[0.5,1.5,0.5],"min":[-0.5,-0.5,-0.5]}],
+			"collidePlayer" : false
+		},
+		"sideall" : "throne",
+		"icon" : "throne.png",
+		"needsBase" : true,
+		"isRotatable" : true,
+		"rotatablex-" : "thronex-",
+		"rotatablex+" : "thronex+",
+		"rotatablez-" : "thronez-",
+		"rotatablez+" : "thronez+"
+	},
+	"thronex+" : {
+		"parentType" : "throne",
+		"mesh" : "thronex+.obj"
+	},
+	"thronex-" : {
+		"parentType" : "throne",
+		"mesh" : "thronex-.obj"
+	},
+	"thronez+" : {
+		"parentType" : "throne",
+		"mesh" : "thronez+.obj"
+	},
+	"thronez-" : {
+		"parentType" : "throne",
+		"mesh" : "thronez-.obj"
+	},
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecorMod", "DecorMod.csproj", "{37795D39-9EE0-4386-AA7D-1C53A51A63B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37795D39-9EE0-4386-AA7D-1C53A51A63B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37795D39-9EE0-4386-AA7D-1C53A51A63B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37795D39-9EE0-4386-AA7D-1C53A51A63B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37795D39-9EE0-4386-AA7D-1C53A51A63B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69A42C7A-5C2C-4477-8B97-9AB89EB31B11}
+	EndGlobalSection
+EndGlobal
