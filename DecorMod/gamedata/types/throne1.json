@@ -28,5 +28,5 @@
 	"thronez-" : {
 		"parentType" : "throne",
 		"mesh" : "thronez-.obj"
-	},
+	}
 }
