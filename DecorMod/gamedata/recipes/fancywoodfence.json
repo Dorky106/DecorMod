@@ -1,0 +1,9 @@
+[
+	{
+		"name" : "decormod.fancywoodfence",
+		"requires" : [
+		{"amount": 6, "type":"planks"}
+		],
+		"results" : [{"type":"fancywoodfence"}]
+	}
+]
